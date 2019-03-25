@@ -111,3 +111,6 @@ git initを実施
 レビューイーを追加する。(github)
 githubでsettinga→collaborators→枠内でメンバ名入力→メールが届く→accept or decline
 3 コミット
+
+02test ブランチ作成
+4 02testブランチ　コミット
