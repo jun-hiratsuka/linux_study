@@ -111,3 +111,6 @@ git initを実施
 レビューイーを追加する。(github)
 githubでsettinga→collaborators→枠内でメンバ名入力→メールが届く→accept or decline
 3 コミット
+
+01testに"aaa"を追記
+test01 1コミット
