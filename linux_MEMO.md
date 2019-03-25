@@ -107,3 +107,7 @@ git initを実施
 
 リモートリポジトリ追加コマンドを追記。
 2 コミット
+
+レビューイーを追加する。(github)
+githubでsettinga→collaborators→枠内でメンバ名入力→メールが届く→accept or decline
+3 コミット
