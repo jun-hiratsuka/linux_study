@@ -113,4 +113,4 @@ githubでsettinga→collaborators→枠内でメンバ名入力→メールが�
 3 コミット
 
 01testに"aaa"を追記
-test01 1コミット
+test01 1コミット 01テストに合わせてコンフリクトを解消
